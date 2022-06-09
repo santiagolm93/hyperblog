@@ -1,5 +1,7 @@
 Este es un archivo de texto de prueba
 
 Mi nombre es Santiago López
+Tengo 28 años
+Vivo en Sabaneta
 
 Aquí termina
